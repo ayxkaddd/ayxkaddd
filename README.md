@@ -3,8 +3,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ayxkaddd&color=grey&style=plastic" alt="Profile Views">
 </div>
-
-## test plz dont mind
-
-<img src="x"<script>alert(2)</script>" onerror=alert(1)>
-<details open id="' &quot;'"ontoggle=alert(1)>

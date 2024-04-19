@@ -6,4 +6,5 @@
 
 ## test plz dont mind
 
-<img src=x onerror=alert(1)><details/open/id="&quot;"ontoggle=alert(1)>
+<img src="x"<script>alert(2)</script>" onerror=alert(1)>
+<details open id="' &quot;'"ontoggle=alert(1)>
